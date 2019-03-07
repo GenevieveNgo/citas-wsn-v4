@@ -3,7 +3,6 @@
 #### Sensor Node Program
 ##### CITAS Dryad 2019
 
-##### Dependencies
 ######  Libraries
     - Adafruit_SleepyDog
     - Adafruit_FONA
